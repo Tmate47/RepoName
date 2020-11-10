@@ -1,0 +1,17 @@
+Program(nyelv:magyar){
+    include MÁTÉML;
+Osztály MagátólMegír{
+-Adatok beír;
+}
+Függvény Megcsinál{
+    do (amíg kell){
+        if(ha rendben van) /akkor:/ {
+            Végrehajt++;
+        }else{
+            A másik dolgot csináld++;
+        }
+    }
+    print_lrn(Írd ki amit kell:);
+}
+program.lezár;
+}
